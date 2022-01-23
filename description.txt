@@ -1,0 +1,4 @@
+This is a heart attack predictor done in python language. 
+I have developed a GUI using TKinter 
+and used Support vector algorithm, trained the algoiritm using the available data.
+
